@@ -1,0 +1,2 @@
+# MoreAmore
+códigosQr
